@@ -1,7 +1,7 @@
 ## Interface: 40000
 ## Title: Booster Shot
 ## Author: Jason L Perry
-## Version: 1.0
+## Version: @project-version@
 ## Notes: Automatically /follow anyone who emotes /followme at you, and also auto-accepts resurrections and invites.
 
 BoosterShot.lua
