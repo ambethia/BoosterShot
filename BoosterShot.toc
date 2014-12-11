@@ -1,4 +1,4 @@
-## Interface: 50300
+## Interface: 60000
 ## Title: Booster Shot
 ## Author: Jason L Perry
 ## Version: @project-version@
